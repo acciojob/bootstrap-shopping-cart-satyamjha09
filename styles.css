@@ -1,9 +1,9 @@
-body {
-    background-color: #f8f9fa;
-}
-.block-heading {
-    text-align: center;
-    color: #3b99e0;
+ body {
+            background-color: #f8f9fa;
+        }
+        .block-heading {
+            text-align: center;
+            color: #3b99e0;
             padding: 20px 0;
         }
         .summary {
