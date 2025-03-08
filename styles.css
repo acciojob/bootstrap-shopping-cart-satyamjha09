@@ -1,18 +1,33 @@
+        body {
+            background-color: #f8f9fa;
+        }
         .block-heading {
             text-align: center;
-            color: #3b99e0;
             margin-bottom: 20px;
+            color: #3b99e0;
+        }
+        .product {
+            padding: 20px;
+            background: #fff;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .summary {
             border-top: 2px solid #5ea4f3;
             background-color: #f7fbff;
-            padding: 15px;
-        }
-        .product img {
-            max-width: 100px;
+            padding: 20px;
+            border-radius: 5px;
         }
         .checkout-btn {
-            background-color: #3b99e0;
+            background: #3b99e0;
             color: white;
             width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            font-weight: bold;
+            border: none;
+        }
+        .checkout-btn:hover {
+            background: #3380c1;
         }
