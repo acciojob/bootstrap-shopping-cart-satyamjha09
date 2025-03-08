@@ -29,3 +29,9 @@
         .checkout-btn:hover {
             background-color: #347bbd;
         }
+.block-heading {
+    text-align: center !important; /* Ensure it's centered */
+}
+.block-heading p {
+    text-align: center !important; /* Ensure paragraph is also centered */
+}
