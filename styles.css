@@ -2,7 +2,7 @@
             background-color: #f8f9fa;
         }
         .block-heading {
-            text-align: center;
+            text-align: center !important; /* Ensure it's centered */
             color: #3b99e0;
             padding: 20px 0;
         }
@@ -29,9 +29,7 @@
         .checkout-btn:hover {
             background-color: #347bbd;
         }
-.block-heading {
-    text-align: center !important; /* Ensure it's centered */
-}
+
 .block-heading p {
     text-align: center !important; /* Ensure paragraph is also centered */
 }
